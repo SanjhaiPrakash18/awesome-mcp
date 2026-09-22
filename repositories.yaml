@@ -3227,6 +3227,8 @@ categories:
         description: 'Clean Reddit data: posts, search, users'
       - url: https://github.com/king-of-the-grackles/reddit-research-mcp
         description: Reddit research with structured insights
+      - url: https://github.com/sanjhaiprakash18/readdit-later-mcp
+        description: Search, organize, and chat with saved Reddit posts from any MCP client
       - url: https://github.com/LuniaKunal/mcp-twitter
       - url: https://github.com/macrocosm-os/macrocosmos-mcp
       - url: https://github.com/sinanefeozler/reddit-summarizer-mcp
@@ -3244,8 +3246,6 @@ categories:
       - url: https://github.com/mbelinky/x-mcp-server
         description: MCP server to post on x.com with OAuth v1 and v2
       - url: https://github.com/ifuryst/rednote-mcp
-      - url: https://github.com/sanjhaiprakash18/readdit-later-mcp
-        description: Search, organize, and chat with saved Reddit posts from any MCP client
       - url: https://github.com/ertiqah/linkedin-mcp-runner
         description: LinkedIn content analysis and posting
       - url: https://github.com/wangshunnn/bilibili-mcp-server
